@@ -1,1 +1,0 @@
-https://github.com/CROSSEO/kivy-dashboard-starter-template.git

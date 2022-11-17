@@ -1,7 +1,7 @@
 # Instructions how to start:
 
 ### clone github repository:
-1 - git clone [URL]
+1 - git clone https://github.com/CROSSEO/kivy-dashboard-starter-template.git
 
 ### create python environment
 2 - python3 -m venv env
