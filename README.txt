@@ -1,6 +1,6 @@
 # Instructions how to start:
 
-### clone github repository:
+### clone github repository for dashboard template:
 1 - git clone https://github.com/CROSSEO/kivy-dashboard-starter-template.git
 
 ### create python environment
