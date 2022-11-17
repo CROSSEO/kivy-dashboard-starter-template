@@ -26,3 +26,4 @@ VScode IDLE:
 - go to Source Control on the left menu bar
 - Initialize repository
 - give it a message (Initiate commit)
+- go to View > Command Pallete > search for: Git add Remote
